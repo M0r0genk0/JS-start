@@ -1,0 +1,29 @@
+body{
+    background-color: black;
+}
+
+button {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+code {
+    background-color: rgb(207, 203, 203);
+}
+
+.b1{
+    background-color: aqua;
+    padding: 15px; 
+}
+
+.b2 {
+    background-color: blueviolet;
+    padding: 15px;
+}
+
+.b3 {
+    background-color: crimson;
+    padding: 15px;
+}
+
+
+
